@@ -1,8 +1,12 @@
 # ArmatureTool for VRCHAT
 
-This is a vchat avatar plugin that improve your quality of life in building avatar
+This is a VRCHAT avatar plugin that improve your quality of life in building avatar
 
 - rename armature by adding prefix
+
+這是一個 VRChat 角色插件，可以提高你在建立角色時的生活品質
+
+- 透過添加前綴重新命名骨架。
 
 ## Installation 
 1. Install the .unitypackage
